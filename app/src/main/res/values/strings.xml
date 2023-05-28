@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Drink Recipes</string>
+    <string name="null_body_exception">NullBodyException</string>
+    <string name="json_parse_exception">JsonParseException</string>
+    <string name="io_exception">IOException</string>
+    <string name="client_exception">ClientException</string>
+    <string name="server_exception">ServerException</string>
+    <string name="unknowing_error">UnknowingError</string>
 </resources>
