@@ -1,4 +1,4 @@
-package com.example.drinkrecipes.ui.theme
+package com.example.drinkrecipes.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
