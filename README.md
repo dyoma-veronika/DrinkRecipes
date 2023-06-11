@@ -12,7 +12,7 @@ It includes: An image with name, ingredients and list of instructions in differe
 
 URL: https://www.thecocktaildb.com/api/json/v1/1/ lookup.php?i={The id of drink}.
 
-Stack: Kotlin, Jetpack Compose, Retrofit2, Room, Dagger-Hilt
+Stack: Kotlin, Jetpack Compose, Retrofit2, Room, Dagger-Hilt, JUnit, Truth
 
 Main Screen             | Details Screen 
 :-------------------------:|:-------------------------:
