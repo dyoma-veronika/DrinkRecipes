@@ -16,4 +16,4 @@ Stack: Kotlin, Jetpack Compose, Retrofit2, Room, Dagger-Hilt, JUnit, Truth
 
 Main Screen             | Details Screen 
 :-------------------------:|:-------------------------:
-![](https://github.com/dyoma-veronika/DrinkRecipes/blob/master/Screenshot_Main_Screen.png) | ![](https://github.com/dyoma-veronika/DrinkRecipes/blob/master/Screenshot_Details_Screen.png)
+![](https://github.com/dyoma-veronika/DrinkRecipes/blob/master/ScreenshotMainScreen.png) | ![](https://github.com/dyoma-veronika/DrinkRecipes/blob/master/ScreenshotDetailsScreen.png)
