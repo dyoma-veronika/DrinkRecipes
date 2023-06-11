@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+*.icloud
+Screenshot_Details_Screen.png
+Screenshot_Main_Screen.png
